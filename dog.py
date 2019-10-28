@@ -1,3 +1,4 @@
+#计算狗的年龄
 age = int(input("请输入你家狗狗的年龄: "))
 print("")
 if age <= 0:
